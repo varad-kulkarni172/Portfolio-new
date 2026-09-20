@@ -35,7 +35,7 @@ export default function Portfolio() {
           <p className="eyebrow hero-reveal">SOFTWARE ENGINEER · PUNE, INDIA</p>
           <h1 className="hero-title hero-reveal">I build systems<br /><em>worth using.</em></h1>
           <div className="hero-bottom">
-            <p className="hero-copy hero-reveal">Full-stack developer having experience ini software systems, computer networks, GenAI and currently researching on cross-platform memory layers.</p>
+            <p className="hero-copy hero-reveal">Full-stack developer having experience in software systems, computer networks, GenAI and currently researching on cross-platform memory layers.</p>
           </div>
           <div className="hero-scroll hero-reveal"><span>Scroll to explore</span><span className="line" /></div>
         </div>
